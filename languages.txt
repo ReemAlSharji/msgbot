@@ -1,0 +1,65 @@
+Afrikaans: hallo
+Albanian:Përshëndetje
+Amharic:ሀሎ
+Arabic:مرحبا
+Armenian:Բարեւ
+Azerbaijani:Salam
+Basque:kaixo
+Belarusian:добры дзень
+Bengali:হ্যালো
+Bosnian:zdravo
+Bulgarian:
+Здравейте
+Catalan:Hola
+Cebuano:kumusta
+Chinese (Simplified):你好
+Chinese (Traditional):你好
+Corsican:Bonghjornu
+Croatian:zdravo
+Czech:Ahoj
+Danish:Hej
+Dutch:Hallo
+Esperanto:saluton
+Estonian:Tere
+Finnish:Hei
+French:Bonjour
+Frisian:Hoi
+Galician:ola
+Georgian:გამარჯობა
+German:Hallo
+Greek:Χαίρετε
+Gujarati:નમસ્તે
+Haitian Creole:bonjou
+Hausa:sannu
+Hawaiian:aloha
+Hebrew:שלום
+Hindi:नमस्ते
+Hmong:nyob zoo
+Hungarian:Helló
+Icelandic:Halló
+Igbo:Nnọọ
+Indonesian:Halo
+Irish:Dia dhuit
+Italian:Ciao
+Japanese:こんにちは
+Javanese:halo
+Kannada:ಹಲೋ
+Kazakh:Сәлеметсіз бе
+Khmer:សួស្តី
+Korean:여보세요
+Kurdish:Slav
+Kyrgyz:салам
+Lao:ສະບາຍດີ
+Latin:Salve
+Latvian:Sveiki
+Lithuanian:Sveiki
+Luxembourgish:Hallo
+Macedonian:Здраво
+Malagasy:Salama
+Malay:hello
+Malayalam:ഹലോ
+Maltese:Bongu
+Maori:tena koutou
+Marathi:नमस्कार
+Mongolian:Сайн уу
+Myanmar (Burmese):ဟယ်လို
